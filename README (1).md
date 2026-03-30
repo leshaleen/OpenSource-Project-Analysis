@@ -39,5 +39,4 @@ Gained hands-on experience in open source contribution and improved
 coding and collaboration skills.
 
 ## Author
-
-Milan Verma
+Lesha Leen
