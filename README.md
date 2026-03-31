@@ -38,5 +38,8 @@ enhancements.
 Gained hands-on experience in open source contribution and improved
 coding and collaboration skills.
 
+##  License
+This project is open-source and free to use.
+
 ## Author
 Lesha Leen
